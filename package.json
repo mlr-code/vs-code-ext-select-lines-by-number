@@ -9,13 +9,13 @@
   "categories": [
     "Other"
   ],
-  "activationEvents": [],
+ "activationEvents": [],
   "main": "./dist/extension.js",
   "contributes": {
     "commands": [
       {
-        "command": "select-lines-by-number.helloWorld",
-        "title": "Hello World"
+        "command": "select-lines-by-number.selectLines",
+        "title": "Select Lines by Number"
       }
     ]
   },
