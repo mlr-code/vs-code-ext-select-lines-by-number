@@ -3,6 +3,7 @@
   "displayName": "Select Lines by Number",
   "description": "Select lines by their number. Eg: 5, 12-16",
   "version": "1.0.0",
+  "publisher": "maikurosofuto",
   "repository": {
     "type": "git",
     "url": "https://github.com/mlr-code/vs-code-ext-select-lines-by-number"
