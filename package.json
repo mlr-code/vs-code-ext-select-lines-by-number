@@ -2,7 +2,7 @@
   "name": "select-lines-by-number",
   "displayName": "Select Lines by Number",
   "description": "Select lines by their number. Eg: 5, 12-16",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "maikurosofuto",
   "repository": {
     "type": "git",
@@ -21,11 +21,11 @@
     "commands": [
       {
         "command": "select-lines-by-number.selectLines",
-        "title": "Select Lines by Number"
+        "title": "slbn: Select Lines by Number"
       },
       {
         "command": "select-lines-by-number.replaceWithFilteredLines",
-        "title": "Replace Document with Filtered Lines"
+        "title": "slbn: Replace Document with Filtered Lines"
       }
     ]
   },

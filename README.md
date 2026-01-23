@@ -1,4 +1,4 @@
-# select-lines-by-number
+# Select Lines by Number
 
 This extension can select lines by their numbers and also delete the other lines.
 
@@ -10,21 +10,6 @@ Example:
 
 ## Features
 
-- Select Lines by Number: select lines.
-- Replace Document with Filtered Lines: select lines and delete the other ones.
-
-## Release Notes
-
-### 1.0.0
-
-Add history.
-
-### 0.0.1
-
-Initial release.
-
-## Following extension guidelines
-
-Ensure that you've read through the extensions guidelines and follow the best practices for creating your extension.
-
-* [Extension Guidelines](https://code.visualstudio.com/api/references/extension-guidelines)
+Command Palette:
+- `slbn: Select Lines by Number`: select lines.
+- `slbn: Replace Document with Filtered Lines`: select lines and delete the other ones.
